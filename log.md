@@ -17,3 +17,10 @@ the saying: "Use it or lose it!"
 Isn't that the point of debugging things?
 **Link(s) to work**
 1. [Check Radio Buttons and Checkboxes by Default](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
+
+### Day 3: July 7th 2019, Sunday
+
+**Today's Progress**: Started on Basic CSS course up to Set the Font Family of An Element.
+**Thoughts** This looks like this would be my favorite language to learn so far. I like to have control over the look and style of a website.
+**Link(s) to work**
+1.[Set the Font Family of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element)
