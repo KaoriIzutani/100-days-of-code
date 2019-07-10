@@ -13,20 +13,26 @@ the saying: "Use it or lose it!"
 ### Day 2: July 5th 2019, Friday
 
 **Today's Progress**: More progress through the basic HTML & HTML5 course up to Check Radio Buttons and Checkboxes by Default.
+
 **Thoughts** I've intentionally made mistakes and try to fix to them on my own before getting a hint or watching a video. 
 Isn't that the point of debugging things?
+
 **Link(s) to work**
 1. [Check Radio Buttons and Checkboxes by Default](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
 
 ### Day 3: July 7th 2019, Sunday
 
 **Today's Progress**: Started on Basic CSS course up to Set the Font Family of An Element.
+
 **Thoughts** This looks like this would be my favorite language to learn so far. I like to have control over the look and style of a website.
+
 **Link(s) to work**
 1.[Set the Font Family of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element)
 
 ### Day 4: July 9th 2019, Tuesday
 **Today's Progress**: Continued on Basic CSS course up to Adjust the Padding of an Element.
+
 **Thoughts** I also spent 2 hours today revising my resume, with encouragement from my bootcamp's job placement director. Happy, but am tired now.
+
 **Link(s) to work**
 1[Adjust the Padding of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
