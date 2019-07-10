@@ -27,7 +27,7 @@ Isn't that the point of debugging things?
 **Thoughts** This looks like this would be my favorite language to learn so far. I like to have control over the look and style of a website.
 
 **Link(s) to work**
-1.[Set the Font Family of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element)
+1. [Set the Font Family of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element)
 
 ### Day 4: July 9th 2019, Tuesday
 **Today's Progress**: Continued on Basic CSS course up to Adjust the Padding of an Element.
@@ -35,4 +35,4 @@ Isn't that the point of debugging things?
 **Thoughts** I also spent 2 hours today revising my resume, with encouragement from my bootcamp's job placement director. Happy, but am tired now.
 
 **Link(s) to work**
-1[Adjust the Padding of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
+1. [Adjust the Padding of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
