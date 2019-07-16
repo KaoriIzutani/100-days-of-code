@@ -36,3 +36,11 @@ Isn't that the point of debugging things?
 
 **Link(s) to work**
 1. [Adjust the Padding of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
+
+Day 4: July 15th 2019, Tuesday
+**Today's Progress**: Decided to stop procrastinating and updated my portfolio. Still a WIP.
+
+**Thoughts** I managed to update the main website, but still need help uploading my projects to my Github website.
+
+**Link(s) to work**
+1. [My Portfolio](https://kaoriizutani.github.io)
