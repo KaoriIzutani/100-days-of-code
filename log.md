@@ -32,7 +32,7 @@ Isn't that the point of debugging things?
 ### Day 4: July 9th 2019, Tuesday
 **Today's Progress**: Continued on Basic CSS course up to Adjust the Padding of an Element.
 
-**Thoughts** I also spent 2 hours today revising my resume, with encouragement from my bootcamp's job placement director. Happy, but am tired now.
+**Thoughts**: I also spent 2 hours today revising my resume, with encouragement from my bootcamp's job placement director. Happy, but am tired now.
 
 **Link(s) to work**
 1. [Adjust the Padding of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
@@ -40,7 +40,7 @@ Isn't that the point of debugging things?
 ### Day 5: July 15th 2019, Tuesday
 **Today's Progress**: Decided to stop procrastinating and updated my portfolio. Still a WIP.
 
-**Thoughts** I managed to update the main website, but still need help uploading my projects to my Github website.
+**Thoughts**: I managed to update the main website, but still need help uploading my projects to my Github website.
 
 **Link(s) to work**
 1. [My Portfolio](https://kaoriizutani.github.io)
