@@ -44,3 +44,11 @@ Isn't that the point of debugging things?
 
 **Link(s) to work**
 1. [My Portfolio](https://kaoriizutani.github.io)
+
+### Day 6: July 19th 2019, Friday
+**Today's Progress**: Continued on Basic CSS course up to Understand Absolute vs Relative Units.
+
+**Thoughts**: I also emailed my first resume and cover letter over to a recruiter (met at a tech conference). We'll see where it goes. 
+
+**Link(s) to work**
+1. [Understand Absolute vs Relative Units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units)
