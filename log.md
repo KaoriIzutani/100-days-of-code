@@ -52,3 +52,11 @@ Isn't that the point of debugging things?
 
 **Link(s) to work**
 1. [Understand Absolute vs Relative Units](https://learn.freecodecamp.org/responsive-web-design/basic-css/understand-absolute-versus-relative-units)
+
+### Day 7: July 27th 2019, Friday
+**Today's Progress**: Learned about WPF and how it works with C#
+
+**Thoughts**: I went through the below tutorial, but I'm already confused. It's for a dev job I'm trying to apply to. It's a paid resource. Any free ones I can try for dummies like me? 
+
+**Link(s) to work**
+1. [O'Reilly Learning] (https://learning.oreilly.com/)
