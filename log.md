@@ -59,4 +59,12 @@ Isn't that the point of debugging things?
 **Thoughts**: I went through the below tutorial, but I'm already confused. It's for a dev job I'm trying to apply to. It's a paid resource. Any free ones I can try for dummies like me? 
 
 **Link(s) to work**
-1. [O'Reilly Learning] (https://learning.oreilly.com/)
+1. [O'Reilly Learning](https://learning.oreilly.com/)
+
+### Day 8: Aug 13th 2019, Tuesday
+**Today's Progress**: Decided to learn Angular to make wonderful looking front end projects, but can't seem to get the command "ng serve" to work in the command prompt. 
+
+**Thoughts**: I also updated my portfolio to have projects linked live and to my GitHub page.
+
+**Link(s) to work**
+1.[Angular Tutorial for Beginners](https://www.youtube.com/watch?v=VkL_D2i8cTM)
