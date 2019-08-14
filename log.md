@@ -67,4 +67,4 @@ Isn't that the point of debugging things?
 **Thoughts**: I also updated my portfolio to have projects linked live and to my GitHub page.
 
 **Link(s) to work**
-1.[Angular Tutorial for Beginners](https://www.youtube.com/watch?v=VkL_D2i8cTM)
+1. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=VkL_D2i8cTM)
