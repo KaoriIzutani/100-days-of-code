@@ -71,4 +71,5 @@ Isn't that the point of debugging things?
 
 ### Day 9: Aug 19th 2019, Monday
 **Today's Progress:** Decided to focus on Python. Seems like it's an intuitive and easy to learn language.
+
 **Thoughts:** Went to more Meetups and found out about a local Tech Crawl event. If I want to break into tech, might as well go.
