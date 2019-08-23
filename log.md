@@ -75,7 +75,7 @@ Isn't that the point of debugging things?
 **Thoughts:** Went to more Meetups and found out about a local Tech Crawl event. If I want to break into tech, might as well go.
 
 ### Day 10: Aug 22nd 2019, Thursday
-**Today's Progress**: Went through some more basics on Python, such as making if, else and elif statement. 
+**Today's Progress**: Went through some more basics on Python, such as making if, else and elif statements. 
 
 **Thoughts**: Earlier I thought it was an intuitive and easy to learn language. It still is, but is it really in demand for today's US workforce?
 
