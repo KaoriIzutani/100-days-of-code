@@ -81,3 +81,12 @@ Isn't that the point of debugging things?
 
 **Link(s) to work**
 1. [O'Reilly Learning](https://learning.oreilly.com/)
+
+### Day 11: Sept 1st 2019, Sunday
+**Today's Progress:** Went through some more basics on Python, this time, creating and searching through arrays/lists.
+
+**Thoughts:** I hadn't been motivated today to code, but forced myself to. I'm glad I did. 
+
+**Link(s) to work**
+1. [O'Reilly Learning](https://learning.oreilly.com/)
+
