@@ -90,7 +90,7 @@ Isn't that the point of debugging things?
 **Link(s) to work**
 1. [O'Reilly Learning](https://learning.oreilly.com/)
 
-### Day 7: Sept 4th 2019, Wednesday
+### Day 12: Sept 4th 2019, Wednesday
 **Today's Progress**: Learned a little about React. I suppose it's useful, but I'm not the biggest fan of CLI. 
 
 **Thoughts**: I'm going to a workshop tonight on how to pass technical interviews with React. Hadn't worked with React, so felt
