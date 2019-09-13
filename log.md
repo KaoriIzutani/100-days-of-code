@@ -99,7 +99,7 @@ I should get my feet wet with it.
 **Link(s) to work**
 1. [O'Reilly Learning](https://learning.oreilly.com/)
 
-### Day 11: Sept 12th 2019, Thursday
+### Day 13: Sept 12th 2019, Thursday
 **Today's Progress:** Decided to focus on Udemy's Javascript bootcamp by Andrew Mead. Learned about else if statements. Cleaned up some of my GitHub repositories.
 
 **Thoughts:** I like this course. I bought it several months ago, but don't know why I left it collect dust until now. 
