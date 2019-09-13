@@ -95,5 +95,6 @@ Isn't that the point of debugging things?
 
 **Thoughts**: I'm going to a workshop tonight on how to pass technical interviews with React. Hadn't worked with React, so felt
 I should get my feet wet with it. 
+
 **Link(s) to work**
 1. [O'Reilly Learning](https://learning.oreilly.com/)
