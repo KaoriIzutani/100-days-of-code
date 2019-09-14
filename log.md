@@ -105,7 +105,7 @@ I should get my feet wet with it.
 **Thoughts:** I like this course. I bought it several months ago, but don't know why I let it collect dust until now. 
 
 **Link(s) to work**
-1.[The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
 ### Day 14: Sept 13th 2019, Friday
 **Today's Progress:** More practice on Udemy's Javascript bootcamp by Andrew Mead. Learned about && and || operators.
@@ -113,5 +113,5 @@ I should get my feet wet with it.
 **Thoughts:**  I hadn't been motivated today to code, but forced myself to. I'm glad I did. 
 
 **Link(s) to work**
-1.[The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
