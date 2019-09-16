@@ -115,3 +115,13 @@ I should get my feet wet with it.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 15: Sept 16th 2019, Monday
+**Today's Progress:** More practice on Udemy's Javascript bootcamp by Andrew Mead. Learned about local and global scope. Was 
+anyone else as confused as I was going through the 2 part explanation?
+
+**Thoughts:**  My brain hurts today from that explanation. I know I didn't have to memorize it, but still..
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+
