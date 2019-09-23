@@ -124,4 +124,13 @@ anyone else as confused as I was going through the 2 part explanation?
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 16: Sept 22nd 2019, Sunday
+**Today's Progress:** More practice on Udemy's Javascript bootcamp by Andrew Mead. Learned about functions and how handy they are in
+repeating desired output. 
+
+**Thoughts:** It's slowly jogging back memories from my bootcamp days. 
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
 
