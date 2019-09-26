@@ -133,4 +133,11 @@ repeating desired output.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 16: Sept 25th 2019, Wednesday
+**Today's Progress:** Kept plugging away on Udemy's Javascript bootcamp by Andrew Mead. Learned about null and undefined terms. 
+
+**Thoughts:** Tinkered around with the functions to see how undefined pops up.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
