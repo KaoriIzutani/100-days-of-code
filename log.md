@@ -80,7 +80,7 @@ Isn't that the point of debugging things?
 **Thoughts**: Earlier I thought it was an intuitive and easy to learn language. It still is, but is it really in demand for today's US workforce?
 
 **Link(s) to work**
-1. [O'Reilly Learning](https://learning.oreilly.com/)
+11. [O'Reilly Learning](https://learning.oreilly.com/)
 
 ### Day 11: Sept 1st 2019, Sunday
 **Today's Progress:** Went through some more basics on Python, this time, creating and searching through arrays/lists.
@@ -133,11 +133,19 @@ repeating desired output.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
-### Day 16: Sept 25th 2019, Wednesday
+### Day 17: Sept 25th 2019, Wednesday
 **Today's Progress:** Kept plugging away on Udemy's Javascript bootcamp by Andrew Mead. Learned about null and undefined terms. 
 
 **Thoughts:** Tinkered around with the functions to see how undefined pops up.
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+### Day 18: Sept 27th 2019, Friday
+**Today's Progress**: Learned some more Python, using for loops and built in "sum" function.
+
+**Thoughts**: The indenting rules are rather irritating, caused a lot of indentation errors. Still getting the hang of this.
+
+**Link(s) to work**
+1. [O'Reilly Learning](https://learning.oreilly.com/)
 
