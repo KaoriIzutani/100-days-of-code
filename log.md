@@ -149,3 +149,11 @@ repeating desired output.
 **Link(s) to work**
 1. [O'Reilly Learning](https://learning.oreilly.com/)
 
+### Day 19: Sept 30th 2019, Monday
+**Today's Progress:** Kept plugging away on Udemy's Javascript bootcamp by Andrew Mead. Learned about defining arguments in a function. 
+
+**Thoughts:** This lesson reminded me of my C# course in bootcamp.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
