@@ -157,3 +157,11 @@ repeating desired output.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 20: Oct 1st 2019, Tuesday
+**Today's Progress:** Kept plugging away on Udemy's Javascript bootcamp by Andrew Mead. Learned about creating template strings.
+
+**Thoughts:** I didn't know about template strings. This looks cleaner than concatenation that I used in the past.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
