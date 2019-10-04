@@ -165,3 +165,17 @@ repeating desired output.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 21: Oct 3rd 2019, Thursday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Tried to create the grade calculator, which reviewed
+everything I learned so far. 
+
+**Thoughts:** This is the first lesson I started to get frustrated in. Gonna work some more on it tomorrow. 
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+
+
+
+
+
