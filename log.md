@@ -174,7 +174,15 @@ everything I learned so far.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 22: Oct 5th 2019, Saturday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Attempted to create the grade calculator, which reviewed
+everything I learned so far. 
 
+**Thoughts:** Kept making mistakes (forgetting to close functions, used the wrong variables etc). Really embarrassing, but trying 
+hard to work through it.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
 
 
