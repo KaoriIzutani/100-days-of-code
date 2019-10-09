@@ -184,6 +184,10 @@ hard to work through it.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 23: Oct 8th 2019, Tuesday
+**Today's Progress:** Needed a break from Javascript. Found a free Udemy course, "Web Developer Course on Creating a Business Website"
 
+**Thoughts:** It was a nice break from Javascript, but I would really like to get back to JS with a clearer mind.
 
-
+**Link(s) to work**
+1. [Web Developer Course on Creating a Business Website](https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/learn/lecture/3680840?start=0#overview)
