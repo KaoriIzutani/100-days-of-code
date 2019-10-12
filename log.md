@@ -191,3 +191,13 @@ hard to work through it.
 
 **Link(s) to work**
 1. [Web Developer Course on Creating a Business Website](https://www.udemy.com/course/web-developer-course-on-creating-a-business-website/learn/lecture/3680840?start=0#overview)
+
+
+### Day 24: Oct 11th 2019, Friday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Finished up on the grade calculator and went on 
+to learn about creating objects.
+
+**Thoughts:** Felt that it went back to being a little easier, after having a rough time with the previous section.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
