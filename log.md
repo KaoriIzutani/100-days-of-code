@@ -7,6 +7,7 @@
 
 **Thoughts** I've recently went to a coding bootcamp, The Tech Academy. However, I do not want to forget what I learned there. You know
 the saying: "Use it or lose it!"
+
 **Link(s) to work**
 1. [Create a Bulleted Unordered List](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list)
 
@@ -198,6 +199,15 @@ hard to work through it.
 to learn about creating objects.
 
 **Thoughts:** Felt that it went back to being a little easier, after having a rough time with the previous section.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+### Day 25: Oct 17th 2019, Thursday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Learned about combining objects and using them
+in functions.
+
+**Thoughts:** It seems like functions save a lot of time, by not repeating so much code. 
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
