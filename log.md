@@ -211,3 +211,13 @@ in functions.
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+
+### Day 26: Oct 18th 2019, Friday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Attempted to create an expenses tracker. I am 
+struggling to understand how to structure the functions in this tracker.
+
+**Thoughts:** Back to feeling frustrated, wasn't getting it. Best to take a break and come back to it later.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
