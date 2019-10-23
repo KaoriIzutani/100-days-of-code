@@ -221,3 +221,12 @@ struggling to understand how to structure the functions in this tracker.
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+### Day 27: Oct 22nd 2019, Tuesday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Continued to work on an expenses tracker. I am 
+struggling to understand how to structure the functions in this tracker.
+
+**Thoughts:** Chipping away at it, but still a WIP.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
