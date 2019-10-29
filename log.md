@@ -230,3 +230,14 @@ struggling to understand how to structure the functions in this tracker.
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+### Day 28: Oct 28th 2019, Monday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Finished working on the expenses tracker and
+started learning about methods.
+
+**Thoughts:** Didn't know you could set up an object's prop as a method. Is there a good reason for doing that?
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+
