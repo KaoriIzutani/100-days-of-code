@@ -240,4 +240,13 @@ started learning about methods.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 29: Nov 12th 2019, Tuesday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Attempted the challenge to create a restaurant seat
+tracker method.
+
+**Thoughts:** I am feeling pretty lost here. I might have to consult the Mozilla resources to understand this.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
 
