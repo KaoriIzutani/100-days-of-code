@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-
+### Round 1
 ### Day 1: July 2nd 2019, Tuesday
 
 **Today's Progress**: I've gone through the basic HTML & HTML5 course up to Create a Bulleted Unordered List.
