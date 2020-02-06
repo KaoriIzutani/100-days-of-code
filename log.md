@@ -257,6 +257,6 @@ tracker method.
 **Thoughts** I am trying Codecademy per Austin Beaufort's free e-book: Web Dev Playbook. Started simple enough with Codecademy's Intro to HTML course.
 
 **Link(s) to work**
-1.[Codecademy](https://www.codecademy.com/learn)
+1. [Codecademy](https://www.codecademy.com/learn)
 
 
