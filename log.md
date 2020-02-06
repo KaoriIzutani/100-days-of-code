@@ -249,4 +249,14 @@ tracker method.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Round 2
+### Day 1: Feb 2nd 2020, Thursday
+
+**Today's Progress**: I feel I need to start over with a Round 2 (R2D1). Life got in the way, but it won't stop me from coding!
+
+**Thoughts** I am trying Codecademy per Austin Beaufort's free e-book: Web Dev Playbook. Started simple enough with Codecademy's Intro to HTML course.
+
+**Link(s) to work**
+1.[Codecademy](https://www.codecademy.com/learn)
+
 
