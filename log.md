@@ -250,7 +250,7 @@ tracker method.
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
 ### Round 2
-### Day 1: Feb 2nd 2020, Thursday
+### Day 1: Feb 6th 2020, Thursday
 
 **Today's Progress**: I feel I need to start over with a Round 2 (R2D1). Life got in the way, but it won't stop me from coding!
 
@@ -259,4 +259,14 @@ tracker method.
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/learn)
 
+### Day 2: Feb 8th 2020, Saturday
+
+**Today's Progress**: R2D2. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Finished on Codecademy's Intro to HTML course and had some practice with "A Better Way to learn HTML and CSS".
+
+
+**Thoughts** I got confused, because I thought "A Smarter Way" exercises were for Javascript, rather than HTML/CSS. Asking for clarification from the author.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/learn)
+2. [A Smarter Way to Learn HTML/CSS](http://www.asmarterwaytolearn.com/htmlcss/index-of-exercises.html)
 
