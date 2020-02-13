@@ -270,3 +270,13 @@ tracker method.
 1. [Codecademy](https://www.codecademy.com/learn)
 2. [A Smarter Way to Learn HTML/CSS](http://www.asmarterwaytolearn.com/htmlcss/index-of-exercises.html)
 
+### Day 3: Feb 12th 2020, Thursday
+
+**Today's Progress**: R2D3. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Finished on Codecademy's HTML Standards exercise and had some practice with "A Better Way to Learn Javascript".
+
+
+**Thoughts** The "A Smarter Way" exercises seem to emphasize repetition. I don't mind that. I feel like I retain the info better that way.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/learn)
+2. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
