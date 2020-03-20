@@ -280,3 +280,13 @@ tracker method.
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/learn)
 2. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+### Day 4: Mar 19th 2020, Thursday
+
+**Today's Progress**: R2D4-13. Have been forgetting to update this. My school let me go on an unpaid 2 week project to build up my resume experience. 
+
+**Thoughts** I loved working on the team project, despite the challenges. Learned a lot about an Agile style project works. 
+
+**Link(s) to work**
+https://github.com/KaoriIzutani/Career-Portfolio Created a Readme doc about my project experience. 
+
