@@ -290,7 +290,7 @@ tracker method.
 **Link(s) to work**
 https://github.com/KaoriIzutani/Career-Portfolio Created a Readme doc about my project experience. 
 
-### Day 14: Apr 13th 2020, Thursday
+### Day 14: Apr 13th 2020, Monday
 
 **Today's Progress**: R2D14-15. Updated my LinkedIn profile. Reviewed "Objects 101" in Andrew Mead's Javascript bootcamp. Also
 worked on an open source front end web project.
