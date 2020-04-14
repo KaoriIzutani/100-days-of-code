@@ -290,3 +290,12 @@ tracker method.
 **Link(s) to work**
 https://github.com/KaoriIzutani/Career-Portfolio Created a Readme doc about my project experience. 
 
+### Day 14: Apr 13th 2020, Thursday
+
+**Today's Progress**: R2D14-15. Updated my LinkedIn profile. Reviewed "Objects 101" in Andrew Mead's Javascript bootcamp. Also
+worked on an open source front end web project.
+
+**Thoughts**: I'm also going to try an online hackathon. I've done one in person before, but never online, so I'm nervous.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
