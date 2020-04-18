@@ -299,3 +299,11 @@ worked on an open source front end web project.
 
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+### Day 16: Apr 17th 2020, Monday
+
+**Today's Progress**: R2D16. Focused on working an open source front end web project. I learned a little about CSS Grid to arrange a 
+web page's design.
+
+**Thoughts**: It was fun to play around with the grid. Git Bash for version control is a pain in the butt though.
+
