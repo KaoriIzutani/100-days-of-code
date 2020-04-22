@@ -307,7 +307,7 @@ web page's design.
 
 **Thoughts**: It was fun to play around with the grid. Git Bash for version control is a pain in the butt though.
 
-### Day 17: Apr 21st 2020, Tues7day
+### Day 17: Apr 21st 2020, Tuesday
 
 **Today's Progress**: R2D17. Updated my LinkedIn profile and portfolio. Feels like a slow day and I coded, even though I didn't 
 feel like it. 
