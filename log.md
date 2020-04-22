@@ -311,6 +311,7 @@ web page's design.
 
 **Today's Progress**: R2D17. Updated my LinkedIn profile and portfolio. Feels like a slow day and I coded, even though I didn't 
 feel like it. 
+
 **Thoughts**: I just gotta find a way to be productive, even in the middle of a pandemic. 
 
 **Link(s) to work**
