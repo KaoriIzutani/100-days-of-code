@@ -300,10 +300,19 @@ worked on an open source front end web project.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
-### Day 16: Apr 17th 2020, Monday
+### Day 16: Apr 17th 2020, Friday
 
 **Today's Progress**: R2D16. Focused on working an open source front end web project. I learned a little about CSS Grid to arrange a 
 web page's design.
 
 **Thoughts**: It was fun to play around with the grid. Git Bash for version control is a pain in the butt though.
+
+### Day 17: Apr 21st 2020, Tues7day
+
+**Today's Progress**: R2D17. Updated my LinkedIn profile and portfolio. Feels like a slow day and I coded, even though I didn't 
+feel like it. 
+**Thoughts**: I just gotta find a way to be productive, even in the middle of a pandemic. 
+
+**Link(s) to work**
+1. [My Portfolio](https://kaoriizutani.github.io)
 
