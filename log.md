@@ -319,7 +319,7 @@ feel like it.
 
 ### Day 18: Apr 24th 2020, Friday
 
-**Today's Progress**: R2D18. Focused on working an open source front end web project. Went a bit more in depth with CSS Grid to arrange a web page's design.
+**Today's Progress**: R2D18. Continued working on an open source front end web project. Went a bit more in depth with CSS Grid to arrange a web page's design.
 
 **Thoughts**: It was fun to play around with the grid, even though the result wasn't quite what I wanted it to look like yet.
 
