@@ -330,4 +330,4 @@ feel like it.
 **Thoughts**: I didn't know about this Diffchecker(diffchecker.com) app, that's how I was able to find my typo. 
 
 **Link(s) to work**
-1. [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+1. [My Codepen](https://codepen.io/kaoriizutani/pen/xxwPwZY)
