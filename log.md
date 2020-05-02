@@ -323,3 +323,11 @@ feel like it.
 
 **Thoughts**: It was fun to play around with the grid, even though the result wasn't quite what I wanted it to look like yet.
 
+### Day 19: May 2nd 2020, Saturday
+
+**Today's Progress**: R2D19. Decided to try my hand with React, courtesy of the Udemy course, Modern React with Redux course. Struggled to get the first project working, until I realized I made a simple typo in the code (added an extra period when there shouldn't have been one).
+
+**Thoughts**: I didn't know about this Diffchecker(diffchecker.com) app, that's how I was able to find my typo. 
+
+**Link(s) to work**
+1.[Modern React with Redux](https://www.udemy.com/course/react-redux/)
