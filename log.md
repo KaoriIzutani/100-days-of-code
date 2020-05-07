@@ -334,7 +334,7 @@ feel like it.
 
 ### Day 20:May 6th 2020, Wednesday
 
-**Today's Progress**: R2D20. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to learn Javascript".
+**Today's Progress**: R2D20. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
 
 
 **Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. I tripped up with the syntax, especially with ++ and
