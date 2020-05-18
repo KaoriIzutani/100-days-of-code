@@ -342,3 +342,13 @@ feel like it.
 
 **Link to work**
 1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+### Day 21: May 18th 2020, Monday
+
+**Today's Progress**: R2D21. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
+
+
+**Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Mostly working with math and string syntax, which wasn't too bad.
+
+**Link to work**
+1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
