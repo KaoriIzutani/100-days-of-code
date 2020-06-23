@@ -347,7 +347,6 @@ feel like it.
 
 **Today's Progress**: R2D21. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
 
-
 **Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Mostly working with math and string syntax, which wasn't too bad.
 
 **Link to work**
@@ -357,7 +356,8 @@ feel like it.
 
 **Today's Progress**: R2D22. Resumed with React, courtesy of the Udemy course, Modern React with Redux course. Made it through the rest 
 of Section 1, completed a basic React project.
+
 **Thoughts**: Nothing too exciting. But I liked how the instructor broke down what an import statement and React components are.
 
-**Link(s) to work**
+**Link to work**
 1.[Modern React with Redux(2020 edition)] (https://www.udemy.com/course/react-redux/)
