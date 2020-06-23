@@ -352,3 +352,12 @@ feel like it.
 
 **Link to work**
 1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+### Day 22: June 22nd 2020, Saturday
+
+**Today's Progress**: R2D22. Resumed with React, courtesy of the Udemy course, Modern React with Redux course. Made it through the rest 
+of Section 1, completed a basic React project.
+**Thoughts**: Nothing too exciting. But I liked how the instructor broke down what an import statement and React components are.
+
+**Link(s) to work**
+1.[Modern React with Redux(2020 edition)] (https://www.udemy.com/course/react-redux/)
