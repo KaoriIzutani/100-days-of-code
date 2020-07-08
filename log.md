@@ -249,6 +249,7 @@ tracker method.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+
 ### Round 2
 ### Day 1: Feb 6th 2020, Thursday
 
@@ -332,7 +333,7 @@ feel like it.
 **Link(s) to work**
 1. [My Codepen](https://codepen.io/kaoriizutani/pen/xxwPwZY)
 
-### Day 20:May 6th 2020, Wednesday
+### Day 20: May 6th 2020, Wednesday
 
 **Today's Progress**: R2D20. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
 
