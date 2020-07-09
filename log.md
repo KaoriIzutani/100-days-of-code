@@ -363,7 +363,7 @@ of Section 1, completed a basic React project.
 **Link to work**
 1.[Modern React with Redux(2020 edition)] (https://www.udemy.com/course/react-redux/)
 
-### Day 23:July 8th 2020, Monday
+### Day 23: July 8th 2020, Monday
 
 **Today's Progress**: R2D23. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
 
