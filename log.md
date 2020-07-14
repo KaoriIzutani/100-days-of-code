@@ -342,7 +342,7 @@ feel like it.
 --. I hope this works.
 
 **Link to work**
-1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
 ### Day 21: May 18th 2020, Monday
 
@@ -361,7 +361,7 @@ of Section 1, completed a basic React project.
 **Thoughts**: Nothing too exciting. But I liked how the instructor broke down what an import statement and React components are.
 
 **Link to work**
-1.[Modern React with Redux(2020 edition)] (https://www.udemy.com/course/react-redux/)
+1.[Modern React with Redux(2020 edition](https://www.udemy.com/course/react-redux/)
 
 ### Day 23: July 8th 2020, Monday
 
@@ -370,7 +370,7 @@ of Section 1, completed a basic React project.
 **Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. This time, relearning the syntax for if statements.
 
 **Link to work**
-1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
 ### Day 24: July 15th 2020, Monday
 
@@ -379,5 +379,5 @@ of Section 1, completed a basic React project.
 **Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Progress seems so slow. But I'm getting the JS syntax, like prompts down, so I need to be patient with this.
 
 **Link to work**
-1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
