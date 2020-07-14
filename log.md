@@ -351,7 +351,7 @@ feel like it.
 **Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Mostly working with math and string syntax, which wasn't too bad.
 
 **Link to work**
-1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
 ### Day 22: June 22nd 2020, Saturday
 
@@ -361,7 +361,7 @@ of Section 1, completed a basic React project.
 **Thoughts**: Nothing too exciting. But I liked how the instructor broke down what an import statement and React components are.
 
 **Link to work**
-1.[Modern React with Redux(2020 edition](https://www.udemy.com/course/react-redux/)
+1.[Modern React with Redux (2020 edition)](https://www.udemy.com/course/react-redux/)
 
 ### Day 23: July 8th 2020, Monday
 
