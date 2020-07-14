@@ -372,3 +372,12 @@ of Section 1, completed a basic React project.
 **Link to work**
 1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
+### Day 24: July 15th 2020, Monday
+
+**Today's Progress**: R2D24. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
+
+**Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Progress seems so slow. But I'm getting the JS syntax, like prompts down, so I need to be patient with this.
+
+**Link to work**
+1. [A Smarter Way to Learn Javascript](@ http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
