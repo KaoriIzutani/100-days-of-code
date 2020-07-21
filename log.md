@@ -389,4 +389,4 @@ Dev Tools".
 **Thoughts**: That was fun to manipulate amazon.com's website by changing colors, fonts, margins. And then start over again by refreshing the page.
 
 **Link to work**
-1.[Build Better Websites with Chrome Dev Tools](https://thegymnasium.com/courses)
+1. [Build Better Websites with Chrome Dev Tools](https://thegymnasium.com/courses)
