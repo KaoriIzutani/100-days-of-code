@@ -381,3 +381,12 @@ of Section 1, completed a basic React project.
 **Link to work**
 1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
+### Day 25: July 20th 2020, Monday
+
+**Today's Progress**: R2D25. Decided to play around with Google Chrome dev tools. Courtesy of a short course, called "Build Better Websites with Chrome
+Dev Tools".
+
+**Thoughts**: That was fun to manipulate amazon.com's website by changing colors, fonts, margins. And then start over again by refreshing the page.
+
+**Link to work**
+1.[Build Better Websites with Chrome Dev Tools](https://thegymnasium.com/courses)
