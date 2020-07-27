@@ -250,6 +250,7 @@ tracker method.
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
 
+
 ### Round 2
 ### Day 1: Feb 6th 2020, Thursday
 
@@ -390,3 +391,14 @@ Dev Tools".
 
 **Link to work**
 1. [Build Better Websites with Chrome Dev Tools](https://thegymnasium.com/courses)
+
+### Day 26: July 26th 2020, Sunday
+**Today's Progress:** Continued on Udemy's Javascript bootcamp by Andrew Mead. Attempted again to create a restaurant seat
+tracker method.
+
+**Thoughts:** I'm feeling a bit better about the exercise, but I still don't know when I'm supposed to use the "this" dot notation.
+
+**Link(s) to work**
+1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+
+
