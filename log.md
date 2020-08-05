@@ -401,4 +401,14 @@ tracker method.
 **Link(s) to work**
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 27: Aug 4th 2020, Tuesday
+
+**Today's Progress**: R2D27. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript", Ch 14-16.
+
+**Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. I'm reminded of what I learned in coding bootcamp, such as nested if's and arrays.
+
+**Link to work**
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+
 
