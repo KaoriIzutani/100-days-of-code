@@ -410,5 +410,15 @@ tracker method.
 **Link to work**
 1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
+### Day 28: Aug 10th 2020, Monday
+
+**Today's Progress**: R2D28. Attended live Python training with Cory Althoff, author of "The Self-Taught Coder". Good for beginners and those wanting to 
+work in data science. 
+
+**Thoughts**: I had a lot of fun, but it took me too much time to figure out how to run Python through my text editor, Notepad ++
+
+**Link to work**
+1. [Python Practice](https://github.com/KaoriIzutani/Practice-Code/blob/master/practice.py)
+
 
 
