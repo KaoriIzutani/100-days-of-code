@@ -412,10 +412,19 @@ tracker method.
 
 ### Day 28: Aug 10th 2020, Monday
 
-**Today's Progress**: R2D28. Attended live Python training with Cory Althoff, author of "The Self-Taught Coder". Good for beginners and those wanting to 
-work in data science. 
+**Today's Progress**: R2D28. Attended live Python training with Cory Althoff, author of "The Self-Taught Coder". Good for beginners and those wanting to work in data science. 
 
 **Thoughts**: I had a lot of fun, but it took me too much time to figure out how to run Python through my text editor, Notepad ++
+
+**Link to work**
+1. [Python Practice](https://github.com/KaoriIzutani/Practice-Code/blob/master/practice.py)
+
+### Day 29: Aug 12th 2020, Wednesday
+
+**Today's Progress**: R2D29. Continued the Python training with Cory Althoff, author of "The Self-Taught Coder". Learned more about Python's built
+in functions.
+
+**Thoughts**: Curious if built in functions, like "capitalize", "strip" and "split" are used on the job?
 
 **Link to work**
 1. [Python Practice](https://github.com/KaoriIzutani/Practice-Code/blob/master/practice.py)
