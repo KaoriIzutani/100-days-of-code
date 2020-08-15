@@ -431,7 +431,7 @@ in functions.
 
 ### Day 30: Aug 14th 2020, Friday
 
-**Today's Progress**: R2D29. Continued the Python training with Cory Althoff. Learned more about how to create your own functions.
+**Today's Progress**: R2D30. Continued the Python training with Cory Althoff. Learned more about how to create your own functions.
 
 **Thoughts**: I was annoyed that Python doesn't have a built in clear screen function. Solution? Made a function to do just that! Awesome!
 
