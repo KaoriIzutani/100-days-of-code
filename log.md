@@ -429,5 +429,13 @@ in functions.
 **Link to work**
 1. [Python Practice](https://github.com/KaoriIzutani/Practice-Code/blob/master/practice.py)
 
+### Day 30: Aug 14th 2020, Friday
+
+**Today's Progress**: R2D29. Continued the Python training with Cory Althoff. Learned more about how to create your own functions.
+
+**Thoughts**: I was annoyed that Python doesn't have a built in clear screen function. Solution? Made a function to do just that! Awesome!
+
+**Link to work**
+1. [Python Practice](https://github.com/KaoriIzutani/Practice-Code/blob/master/practice.py)
 
 
