@@ -440,10 +440,18 @@ in functions.
 
 ### Day 31: Aug 20th 2020, Thursday
 
-**Today's Progress**: R2D31. Resumed with React, courtesy of the Udemy course, Modern React with Redux course. Made it through most of Section 2, understanding how to 
-render variables and functions with JSX.
+**Today's Progress**: R2D31. Resumed with React, courtesy of the Udemy course, Modern React with Redux course. Made it through most of Section 2, understanding how to render variables and functions with JSX.
 
 **Thoughts**: My button's style looks so ugly, whether I test it in Chrome or Edge--- not sure how to fix that.
 
 **Link to work**
 1.[Modern React with Redux (2020 edition)](https://www.udemy.com/course/react-redux/)
+
+### Day 32: Aug 25th 2020, Tuesday
+
+**Today's Progress**: R2D32. Was bored, so I decided to create a portfolio website, with a retro Nintendo 8-bit look. 
+
+**Thoughts**: The website is still rough around the edges. But I love the classic 8-bit look-it's so 80s looking. It's also nice to incorporate Bootstrap elements in the website. 
+
+**Link to work**
+1.[Build an 8-bit Website] (https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/)
