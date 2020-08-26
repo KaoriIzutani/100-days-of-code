@@ -454,4 +454,4 @@ in functions.
 **Thoughts**: The website is still rough around the edges. But I love the classic 8-bit look-it's so 80s looking. It's also nice to incorporate Bootstrap elements in the website. 
 
 **Link to work**
-1.[Build an 8-bit Website](https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/)
+1. [Build an 8-bit Website](https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/)
