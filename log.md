@@ -456,12 +456,14 @@ in functions.
 **Link to work**
 1. [Build an 8-bit Website](https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/)
 
-### Day 33: Sept 15th 2020, Tuesday
-
-**Today's Progress:** R2D33. Continued on Udemy's Javascript bootcamp by Andrew Mead. Learned a few string methods, such as toLowerCase, includes and trim.
-
-**Thoughts:** I was on the right track-- still struggling with some of the dot notation syntax, such as ! for "not included". 
-
-**Link(s) to work**
+### 
 1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
+### Day 33: Sept 22nd 2020, Tuesday
+
+**Today's Progress**: R2D33. Tried my hand with Codecademy's free Java course. The reason I took this is because some job assessments asked about Java questions and I wasn't familiar with Java.
+
+**Thoughts**: Java looks a lot like the C# language, does it not?
+
+**Link to work**
+1. [Codecademy Java Course](https://www.codecademy.com/paths/introduction-to-android-with-java/)
