@@ -467,3 +467,13 @@ in functions.
 
 **Link to work**
 1. [Codecademy Java Course](https://www.codecademy.com/paths/introduction-to-android-with-java/)
+
+### Day 34: Oct 8th 2020, Thursday
+
+**Today's Progress**: R2D34. Continued with Codecademy's free Java course. Didn't do much coding, but got familiar with the Android Studio IDE and got up to the lecture, talking about wireframes. 
+
+**Thoughts**: Not sure about wireframes, but my understanding is wireframes are a blueprint for your app, right?
+
+**Link to work**
+1. [Codecademy Java Course](https://www.codecademy.com/paths/introduction-to-android-with-java/)
+
