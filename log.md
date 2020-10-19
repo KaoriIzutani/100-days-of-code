@@ -477,3 +477,12 @@ in functions.
 **Link to work**
 1. [Codecademy Java Course](https://www.codecademy.com/paths/introduction-to-android-with-java/)
 
+### Day 35: Oct 18th 2020, Sunday
+
+**Today's Progress**: R2D35. Continuing on Austin Beaufort's free e-book: Web Dev Playbook. Practice with "A Better Way to Learn Javascript".
+
+**Thoughts**: "A Smarter Way" exercises seem to emphasize repetition. Learned more about the slice and length methods. Slowly getting the JS syntax down.
+
+**Link to work**
+
+1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
