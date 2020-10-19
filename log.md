@@ -457,7 +457,7 @@ in functions.
 1. [Build an 8-bit Website](https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/)
 
 ### 
-1. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
+2. [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
 
 ### Day 33: Sept 22nd 2020, Tuesday
 
