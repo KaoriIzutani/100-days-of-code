@@ -486,3 +486,12 @@ in functions.
 **Link to work**
 
 1. [A Smarter Way to Learn Javascript](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+### Day 36-45: Oct 19-30 2020, Monday
+
+**Today's Progress**: R2D36-45. Have been forgetting to update this. I decided to try Outsystems Low-Code School, remote edition. Learned more about how the platform works and worked on a IMDb clone project, using the Outsystems platform. 
+
+**Thoughts**: Just because it is low-code doesn't mean low-effort. You still need some knowledge in things like SQL and you might get thrown by some of the Outsystems terminology.  
+
+**Link(s) to work**
+1. [More information on Low-Code School](https://www.outsystems.com/events/developer-school/#editions)
