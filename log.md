@@ -495,3 +495,13 @@ in functions.
 
 **Link(s) to work**
 1. [More information on Low-Code School](https://www.outsystems.com/events/developer-school/#editions)
+
+### Round 3
+### Day 1: Feb 11th 2020, Thursday
+
+**Today's Progress**: R3D1. I feel I need to start over with a Round 3 (R2D1). Again life got in the way, but I can't let it stop me from coding!
+
+**Thoughts** I decided to try something scary, which is to enter a hackathon. To rebuild my motivation to code, I tried my hand at building a TikTok clone. 
+
+**Link(s) to work**
+1. [Build a TikTok Clone](https://www.youtube.com/watch?v=7okW52MQgSE&feature=emb_logo)
