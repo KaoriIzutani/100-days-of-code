@@ -497,7 +497,7 @@ in functions.
 1. [More information on Low-Code School](https://www.outsystems.com/events/developer-school/#editions)
 
 ### Round 3
-### Day 1: Feb 11th 2020, Thursday
+### Day 1: Feb 11th 2021, Thursday
 
 **Today's Progress**: R3D1. I feel I need to start over with a Round 3 (R2D1). Again life got in the way, but I can't let it stop me from coding!
 
@@ -505,3 +505,13 @@ in functions.
 
 **Link(s) to work**
 1. [Build a TikTok Clone](https://www.youtube.com/watch?v=7okW52MQgSE&feature=emb_logo)
+
+### Day 2: March 24th 2021, Wednesday
+
+**Today's Progress**: R3D2. Decided to try my hand with React, courtesy of the Udemy course, Modern React with Redux course. Reviewed over how to open and 
+close my existing React project. 
+
+**Thoughts**: Inspired to code again after listening to a software dev talk about focusing your niche. 
+
+**Link(s) to work**
+1.[Modern React with Redux (2020 edition)](https://www.udemy.com/course/react-redux/)
