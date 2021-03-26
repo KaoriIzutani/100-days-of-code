@@ -514,7 +514,7 @@ close my existing React project.
 **Thoughts**: Inspired to code again after listening to a software dev talk about focusing your niche. 
 
 **Link(s) to work**
-1. [Modern React with Redux (2020 edition)](https://www.udemy.com/course/react-redux/)
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
 
 ### Day 3: March 26th 2021, Friday
 
@@ -523,7 +523,7 @@ close my existing React project.
 **Thoughts**: I don't think I got the syntax right on the test. I'm going to figure it out some more before peeking at the solution.
 
 **Link(s) to work**
-1. [Modern React with Redux (2020 edition)](https://www.udemy.com/course/react-redux/)
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
 
 
 
