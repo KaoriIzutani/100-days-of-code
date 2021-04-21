@@ -526,7 +526,7 @@ close my existing React project.
 1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
 
 ### Day 4: April 20th 2021, Tuesday
-**Today's Progress**: I wanted to continue with my React course, but somehow ran into technical issues. I tried playing "The Self-Taught Programmer" course and that one 
+**Today's Progress**: R3D4. I wanted to continue with my React course, but somehow ran into technical issues. I tried playing "The Self-Taught Programmer" course and that one 
 worked. 
 
 **Thoughts**: This course focused on the Python language. It seems simple enough. I'm just irritated that you have to call a function to clear your screen of messy 
