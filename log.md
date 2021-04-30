@@ -535,7 +535,7 @@ code.
 **Link(s) to work**
 1. [The Self-Taught Programmer](https://www.udemy.com/course/self-taught-programmer/)
 
-## Day 5: April 29th 2021, Tuesday
+### Day 5: April 29th 2021, Tuesday
 **Today's Progress**: R3D5. YouTube notifications gave me a suggestion to a code-along with @DThompsonDev. Well, why not give it a try.
 
 **Thoughts**: The VS Code shortcuts that were shown are awesome! I never learned this in coding bootcamp. This would've saved a ton of time typing/coding if I knew it sooner.
