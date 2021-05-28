@@ -529,8 +529,7 @@ close my existing React project.
 **Today's Progress**: R3D4. I wanted to continue with my React course, but somehow ran into technical issues. I tried playing "The Self-Taught Programmer" course and that one 
 worked. 
 
-**Thoughts**: This course focused on the Python language. It seems simple enough. I'm just irritated that you have to call a function to clear your screen of messy 
-code.
+**Thoughts**: This course focused on the Python language. It seems simple enough. I'm just irritated that you have to call a function to clear your screen of messy code.
 
 **Link(s) to work**
 1. [The Self-Taught Programmer](https://www.udemy.com/course/self-taught-programmer/)
@@ -543,3 +542,11 @@ code.
 **Link(s) to work**
 1.[Live Code-Along and AMA](https://www.youtube.com/watch?v=jw9pgas_gMA&t=564s)
 
+### Day 6: May 27th 2021, Thursday
+
+**Today's Progress**: R3D6. Continued with the Modern React with Redux course. I got up to where we are learning about components in React.
+
+**Thoughts**: I also finished up on the coding exercise at the end of the chapter. I had to remind myself the proper syntax of a function call. How embarrassing.
+
+**Link(s) to work**
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
