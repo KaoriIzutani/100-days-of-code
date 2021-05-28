@@ -540,7 +540,7 @@ worked.
 **Thoughts**: The VS Code shortcuts that were shown are awesome! I never learned this in coding bootcamp. This would've saved a ton of time typing/coding if I knew it sooner.
 
 **Link(s) to work**
-1.[Live Code-Along and AMA](https://www.youtube.com/watch?v=jw9pgas_gMA&t=564s)
+1. [Live Code-Along and AMA](https://www.youtube.com/watch?v=jw9pgas_gMA&t=564s)
 
 ### Day 6: May 27th 2021, Thursday
 
