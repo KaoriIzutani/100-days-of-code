@@ -550,3 +550,15 @@ worked.
 
 **Link(s) to work**
 1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
+
+### Day 7: May 28th 2021, Friday
+
+**Today's Progress**: R3D7. Continued with the Modern React with Redux course, learning about components in React. Also attended a Meetup, sharing my 
+struggles. 
+
+**Thoughts**: I didn't think people appreciated the struggle of just getting the default program to run (mine was missing a Babel dependency for some reason).
+It's nice to connect with people who understand such struggles.
+
+**Link(s) to work**
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
+2. [Codecademy Meetup] (https://community.codecademy.com/events/#/list) Free, but you need a free Codecademy account to sign up.
