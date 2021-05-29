@@ -561,4 +561,4 @@ It's nice to connect with people who understand such struggles.
 
 **Link(s) to work**
 1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
-2. [Codecademy Meetup] (https://community.codecademy.com/events/#/list) Free, but you need a free Codecademy account to sign up.
+2. [Codecademy Meetup](https://community.codecademy.com/events/#/list) Free, but you need a free Codecademy account to sign up.
