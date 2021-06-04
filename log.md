@@ -567,7 +567,7 @@ It's nice to connect with people who understand such struggles.
 
 **Today's Progress**: R3D8. Continued with the Modern React with Redux course, learning more about components in React. 
 
-**Thoughts**: Seemed simple enough. I felt comfortable uploading my progress in my Github account here.  
+**Thoughts**: The lesson seemed simple enough. I felt comfortable uploading my progress in my Github account here.  
 
 **Link(s) to work**
-1. [Mg Github]()
+1. [My Github](https://github.com/KaoriIzutani/React/blob/master/frontend-project/components/src/index.js)
