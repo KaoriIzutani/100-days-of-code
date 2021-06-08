@@ -571,3 +571,13 @@ It's nice to connect with people who understand such struggles.
 
 **Link(s) to work**
 1. [My Github](https://github.com/KaoriIzutani/React/blob/master/frontend-project/components/src/index.js)
+
+### Day 9: June 7th 2021,  Monday
+
+**Today's Progress**: R3D9. Continued with the Modern React with Redux course. I got up to where we are learning about components and props in React.
+
+**Thoughts**: The lesson was straightforward and well-explained. Although I forgot, what is an argument in JS?
+
+**Link(s) to work**
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
+
