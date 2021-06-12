@@ -581,3 +581,12 @@ It's nice to connect with people who understand such struggles.
 **Link(s) to work**
 1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
 
+### Day 10: June 11th 2021,  Friday
+
+**Today's Progress**: R3D10. Continued with the Modern React with Redux course. Finished up on components and passing props in React.
+
+**Thoughts**: I remembered to hard code a prop. But I forgot that you could use function calls too as props. That's what I learned today.
+
+**Link(s) to work**
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
+
