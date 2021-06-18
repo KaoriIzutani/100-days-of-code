@@ -590,3 +590,14 @@ It's nice to connect with people who understand such struggles.
 **Link(s) to work**
 1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
 
+### Day 11: June 17th 2021, Thursday
+
+**Today's Progress**: R3D11. Continued with the Modern React with Redux course. Finished up on components and passing props in React.
+
+**Thoughts**: The lesson was straightforward and well-explained. So it looks like you can reuse as many components as you like? Seems like it would save
+you time.
+
+**Link(s) to work**
+1. [Modern React with Redux (2021 edition)](https://www.udemy.com/course/react-redux/)
+
+
