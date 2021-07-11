@@ -604,7 +604,7 @@ you time.
 
 **Today's Progress**: R3D12. I decided to learn more about working with API's (because don't many jobs want you to work with them?)
 
-**Thoughts**: Mei is a very engaging instructor. I almost went through the lesson, but then Postman went into maintenance time. 
+**Thoughts**: Mei is a very engaging instructor. I almost went through the lesson, but then the Postman website went into maintenance time. 
 
 **Link(s) to work**
 1. [API's 101 with Postman] (https://www.youtube.com/watch?v=K__h9rqL8Bo)
